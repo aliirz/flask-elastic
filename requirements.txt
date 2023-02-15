@@ -10,4 +10,4 @@ python-dotenv==0.10.3
 pytz==2019.3
 six==1.13.0
 urllib3==1.26.5
-Werkzeug==0.16.0
+Werkzeug==2.2.3
